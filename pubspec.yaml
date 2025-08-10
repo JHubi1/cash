@@ -1,0 +1,17 @@
+name: cash
+description: A universal money conversion and calculation library for Dart.
+version: 1.0.0
+
+repository: https://github.com/JHubi1/cash
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  http: ^1.4.0
+  retry: ^3.1.2
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
+  dart_style: ^3.1.1

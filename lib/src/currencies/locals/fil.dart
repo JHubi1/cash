@@ -1,0 +1,815 @@
+// This is an automatically generated file. Do not modify manually.
+// To regenerate this file, run the command 'dart run tool/bake_currencies.dart'
+
+part of '../localization.dart';
+
+final _containerFil = CurrencyLocalizationContainer._(
+  locale: r"fil",
+  currencies: {
+    "AED": CurrencyLocalization._(
+      displayName: r"United Arab Emirates Dirham",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "AFN": CurrencyLocalization._(
+      displayName: r"Afghan Afghani",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "ALL": CurrencyLocalization._(
+      displayName: r"Lek ng Albania",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "AMD": CurrencyLocalization._(
+      displayName: r"Armenian Dram",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "ANG": CurrencyLocalization._(
+      displayName: r"Antillean Guilder ng Netherlands",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "AOA": CurrencyLocalization._(
+      displayName: r"Angolan Kwanza",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "ARS": CurrencyLocalization._(
+      displayName: r"Piso ng Argentina",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "AUD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Australya",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "AWG": CurrencyLocalization._(
+      displayName: r"Florin ng Aruba",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "AZN": CurrencyLocalization._(
+      displayName: r"Azerbaijani Manat",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BAM": CurrencyLocalization._(
+      displayName: r"Bosnia-Herzegovina Convertible Mark",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BBD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Barbados",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BDT": CurrencyLocalization._(
+      displayName: r"Bangladeshi Taka",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BGN": CurrencyLocalization._(
+      displayName: r"Bulgarian Lev",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BHD": CurrencyLocalization._(
+      displayName: r"Bahraini Dinar",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BIF": CurrencyLocalization._(
+      displayName: r"Burundian Franc",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BMD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Bermuda",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BND": CurrencyLocalization._(
+      displayName: r"Dolyar ng Brunei",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BOB": CurrencyLocalization._(
+      displayName: r"Boliviano ng Bolivia",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BRL": CurrencyLocalization._(
+      displayName: r"Real ng Barzil",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BSD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Bahamas",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BTN": CurrencyLocalization._(
+      displayName: r"Bhutanese Ngultrum",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BWP": CurrencyLocalization._(
+      displayName: r"Botswanan Pula",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BYN": CurrencyLocalization._(
+      displayName: r"Ruble ng Belarus",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "BZD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Belize",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "CAD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Canada",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "CDF": CurrencyLocalization._(
+      displayName: r"Congolese Franc",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "CHF": CurrencyLocalization._(
+      displayName: r"Swiss Franc",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "CLP": CurrencyLocalization._(
+      displayName: r"Piso ng Chile",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "CNY": CurrencyLocalization._(
+      displayName: r"Chinese Yuan",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "COP": CurrencyLocalization._(
+      displayName: r"Piso ng Colombia",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "CRC": CurrencyLocalization._(
+      displayName: r"Colón ng Costa Rica",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "CUC": CurrencyLocalization._(
+      displayName: r"Convertible na Piso ng Cuba",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "CUP": CurrencyLocalization._(
+      displayName: r"Piso ng Cuba",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "CVE": CurrencyLocalization._(
+      displayName: r"Cape Verdean Escudo",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "CZK": CurrencyLocalization._(
+      displayName: r"Koruna ng Czech Republic",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "DEM": CurrencyLocalization._(
+      displayName: r"Deutsche Marks",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "DJF": CurrencyLocalization._(
+      displayName: r"Djiboutian Franc",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "DKK": CurrencyLocalization._(
+      displayName: r"Danish Krone",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "DOP": CurrencyLocalization._(
+      displayName: r"Piso ng Dominican",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "DZD": CurrencyLocalization._(
+      displayName: r"Algerian Dinar",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "EEK": CurrencyLocalization._(
+      displayName: r"Estonian Kroon",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "EGP": CurrencyLocalization._(
+      displayName: r"Pound ng Egypt",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "ERN": CurrencyLocalization._(
+      displayName: r"Eritrean Nakfa",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "ETB": CurrencyLocalization._(
+      displayName: r"Ethiopian Birr",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "EUR": CurrencyLocalization._(
+      displayName: r"Euro",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "FJD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Fiji",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "FKP": CurrencyLocalization._(
+      displayName: r"Pound ng Falkland Islands",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "FRF": CurrencyLocalization._(
+      displayName: r"French Franc",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "GBP": CurrencyLocalization._(
+      displayName: r"British Pound",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "GEL": CurrencyLocalization._(
+      displayName: r"Georgian Lari",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "GHS": CurrencyLocalization._(
+      displayName: r"Ghanaian Cedi",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "GIP": CurrencyLocalization._(
+      displayName: r"Pound ng Gibraltar",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "GMD": CurrencyLocalization._(
+      displayName: r"Gambian Dalasi",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "GNF": CurrencyLocalization._(
+      displayName: r"Guinean Franc",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "GTQ": CurrencyLocalization._(
+      displayName: r"Quetzal ng Guatemala",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "GYD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Guyanese",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "HKD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Hong Kong",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "HNL": CurrencyLocalization._(
+      displayName: r"Lempira ng Honduras",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "HRK": CurrencyLocalization._(
+      displayName: r"Kuna ng Croatia",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "HTG": CurrencyLocalization._(
+      displayName: r"Gourde ng Haiti",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "HUF": CurrencyLocalization._(
+      displayName: r"Forint ng Hungary",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "IDR": CurrencyLocalization._(
+      displayName: r"Indonesian Rupiah",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "ILS": CurrencyLocalization._(
+      displayName: r"New Shekel ng Israel",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "INR": CurrencyLocalization._(
+      displayName: r"Indian Rupee",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "IQD": CurrencyLocalization._(
+      displayName: r"Iraqi Dinar",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "IRR": CurrencyLocalization._(
+      displayName: r"Iranian Rial",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "ISK": CurrencyLocalization._(
+      displayName: r"Icelandic Króna",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "JMD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Jamaica",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "JOD": CurrencyLocalization._(
+      displayName: r"Jordanian Dinar",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "JPY": CurrencyLocalization._(
+      displayName: r"Japanese Yen",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "KES": CurrencyLocalization._(
+      displayName: r"Kenyan Shilling",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "KGS": CurrencyLocalization._(
+      displayName: r"Kyrgystani Som",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "KHR": CurrencyLocalization._(
+      displayName: r"Cambodian Riel",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "KMF": CurrencyLocalization._(
+      displayName: r"Comorian Franc",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "KPW": CurrencyLocalization._(
+      displayName: r"Won ng Hilagang Korea",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "KRW": CurrencyLocalization._(
+      displayName: r"Won ng Timog Korea",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "KWD": CurrencyLocalization._(
+      displayName: r"Kuwaiti Dinar",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "KYD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Cayman Islands",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "KZT": CurrencyLocalization._(
+      displayName: r"Kazakhstani Tenge",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "LAK": CurrencyLocalization._(
+      displayName: r"Laotian Kip",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "LBP": CurrencyLocalization._(
+      displayName: r"Pound ng Lebanon",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "LKR": CurrencyLocalization._(
+      displayName: r"Sri Lankan Rupee",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "LRD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Liberia",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "LSL": CurrencyLocalization._(
+      displayName: r"Lesotho Loti",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "LTL": CurrencyLocalization._(
+      displayName: r"Lithuanian Litas",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "LVL": CurrencyLocalization._(
+      displayName: r"Latvian Lats",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "LYD": CurrencyLocalization._(
+      displayName: r"Dinar ng Libya",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MAD": CurrencyLocalization._(
+      displayName: r"Moroccan Dirham",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MDL": CurrencyLocalization._(
+      displayName: r"Leu ng Moldova",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MGA": CurrencyLocalization._(
+      displayName: r"Malagasy Ariary",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MKD": CurrencyLocalization._(
+      displayName: r"Denar ng Macedonia",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MMK": CurrencyLocalization._(
+      displayName: r"Myanmar Kyat",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MNT": CurrencyLocalization._(
+      displayName: r"Mongolian Tugrik",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MOP": CurrencyLocalization._(
+      displayName: r"Macanese Pataca",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MRU": CurrencyLocalization._(
+      displayName: r"Ouguiya ng Mauritania",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MUR": CurrencyLocalization._(
+      displayName: r"Mauritian Rupee",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MVR": CurrencyLocalization._(
+      displayName: r"Maldivian Rufiyaa",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MWK": CurrencyLocalization._(
+      displayName: r"Malawian Kwacha",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MXN": CurrencyLocalization._(
+      displayName: r"Piso ng Mexico",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MYR": CurrencyLocalization._(
+      displayName: r"Malaysian Ringgit",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "MZN": CurrencyLocalization._(
+      displayName: r"Mozambican Metical",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "NAD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Namibia",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "NGN": CurrencyLocalization._(
+      displayName: r"Nigerian Naira",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "NIO": CurrencyLocalization._(
+      displayName: r"Córdoba ng Nicaragua",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "NOK": CurrencyLocalization._(
+      displayName: r"Norwegian Krone",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "NPR": CurrencyLocalization._(
+      displayName: r"Nepalese Rupee",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "NZD": CurrencyLocalization._(
+      displayName: r"Dolyar ng New Zealand",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "OMR": CurrencyLocalization._(
+      displayName: r"Omani Rial",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "PAB": CurrencyLocalization._(
+      displayName: r"Balboa ng Panama",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "PEN": CurrencyLocalization._(
+      displayName: r"Peruvian Sol",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "PGK": CurrencyLocalization._(
+      displayName: r"Papua New Guinean Kina",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "PHP": CurrencyLocalization._(
+      displayName: r"Piso ng Pilipinas",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "PKR": CurrencyLocalization._(
+      displayName: r"Pakistani Rupee",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "PLN": CurrencyLocalization._(
+      displayName: r"Zloty ng Poland",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "PYG": CurrencyLocalization._(
+      displayName: r"Paraguayan Guarani",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "QAR": CurrencyLocalization._(
+      displayName: r"Qatari Rial",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "RON": CurrencyLocalization._(
+      displayName: r"Leu ng Romania",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "RSD": CurrencyLocalization._(
+      displayName: r"Dinar ng Serbia",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "RUB": CurrencyLocalization._(
+      displayName: r"Ruble ng Russia",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "RWF": CurrencyLocalization._(
+      displayName: r"Rwandan Franc",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SAR": CurrencyLocalization._(
+      displayName: r"Saudi Riyal",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SBD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Solomon Islands",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SCR": CurrencyLocalization._(
+      displayName: r"Seychellois Rupee",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SDG": CurrencyLocalization._(
+      displayName: r"Pound ng Sudan",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SEK": CurrencyLocalization._(
+      displayName: r"Swedish Krona",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SGD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Singapore",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SHP": CurrencyLocalization._(
+      displayName: r"Saint Helena Pound",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SIT": CurrencyLocalization._(
+      displayName: r"Slovenian Tolar",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SKK": CurrencyLocalization._(
+      displayName: r"Slovak Koruna",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SLE": CurrencyLocalization._(
+      displayName: r"Sierra Leonean Leone",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SOS": CurrencyLocalization._(
+      displayName: r"Somali Shilling",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SRD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Suriname",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "STN": CurrencyLocalization._(
+      displayName: r"São Tomé & Príncipe Dobra",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SYP": CurrencyLocalization._(
+      displayName: r"Syrian Pound",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "SZL": CurrencyLocalization._(
+      displayName: r"Swazi Lilangeni",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "THB": CurrencyLocalization._(
+      displayName: r"Thai Baht",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "TJS": CurrencyLocalization._(
+      displayName: r"Tajikistani Somoni",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "TMT": CurrencyLocalization._(
+      displayName: r"Turkmenistani Manat",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "TND": CurrencyLocalization._(
+      displayName: r"Tunisian Dinar",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "TOP": CurrencyLocalization._(
+      displayName: r"Tongan Paʻanga",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "TRY": CurrencyLocalization._(
+      displayName: r"Turkish Lira",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "TTD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Trinidad and Tobago",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "TWD": CurrencyLocalization._(
+      displayName: r"Dolyar ng New Taiwan",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "TZS": CurrencyLocalization._(
+      displayName: r"Tanzanian Shilling",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "UAH": CurrencyLocalization._(
+      displayName: r"Hryvnia ng Ukraine",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "UGX": CurrencyLocalization._(
+      displayName: r"Ugandan Shilling",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "USD": CurrencyLocalization._(
+      displayName: r"Dolyar ng US",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "UYU": CurrencyLocalization._(
+      displayName: r"Piso ng Uruguay",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "UZS": CurrencyLocalization._(
+      displayName: r"Uzbekistan Som",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "VES": CurrencyLocalization._(
+      displayName: r"Bolívar ng Venezuela",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "VND": CurrencyLocalization._(
+      displayName: r"Vietnamese Dong",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "VUV": CurrencyLocalization._(
+      displayName: r"Vanuatu Vatu",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "WST": CurrencyLocalization._(
+      displayName: r"Samoan Tala",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "XAF": CurrencyLocalization._(
+      displayName: r"CFA Franc BEAC",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "XCD": CurrencyLocalization._(
+      displayName: r"Dolyar ng Silangang Caribbean",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "XOF": CurrencyLocalization._(
+      displayName: r"CFA Franc ng Kanlurang Africa",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "XPF": CurrencyLocalization._(
+      displayName: r"CFP Franc",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "YER": CurrencyLocalization._(
+      displayName: r"Yemeni Rial",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "ZAR": CurrencyLocalization._(
+      displayName: r"Rand ng Timog Africa",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+    "ZMW": CurrencyLocalization._(
+      displayName: r"Zambian Kwacha",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
+  },
+);
