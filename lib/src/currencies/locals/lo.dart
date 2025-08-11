@@ -26,11 +26,6 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"ເນ​ເທີ​ແລນ ແອນ​ຕິ​ລຽນ ກິວ​ເດີ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ແອງ​ໂກ​ລັນ ຄວນ​ຊາ",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerLo = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"ອາ​ເຈນ​ທິ​ນາ ເປ​ໂຊ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"ຊິລລິງ ອົດສະຕາລີ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerLo = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"ບັງ​ຄລາ​ເທດ ຕາ​ກາ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"ຟຣັງ ບູນກາລີ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -161,6 +146,11 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"ຢວນຈີນ (ນອກປະເທດ)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"ຈີນ ຢວນ",
       displayCountSingular: null,
@@ -176,11 +166,6 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ຄິວແບນ ຄອນເວີດຕິໂບ ເປໂຊ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"ຄິວແບນ ເປໂຊ",
       displayCountSingular: null,
@@ -191,18 +176,8 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"ປອນ ໄຊປຣັດ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"ເຊກ ໂຄ​ຣູ​ນາ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"ມາກ ເຢຍລະມັນ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -226,11 +201,6 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"ຄຣູນເອສ ໂຕເນຍ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"ອີ​ຢິບ​ທຽນ ພາວດ໌",
       displayCountSingular: null,
@@ -238,11 +208,6 @@ final _containerLo = CurrencyLocalizationContainer._(
     ),
     "ERN": CurrencyLocalization._(
       displayName: r"ອິ​ຣິ​ທຣຽນ ແນກ​ຟ​າ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"ເປເຊຕາ ສະເປນ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -256,11 +221,6 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"ມາກກາ ຟິນແລນ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"ຟິ​ຈຽນ ໂດ​ລ່າ",
       displayCountSingular: null,
@@ -268,11 +228,6 @@ final _containerLo = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"ຟອ​ລ໌ກ​ແລນ ໄອ​ແລນ​ສ໌ ພາວ​ດ໌",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"ຟຣັງ ຝຣັ່ງ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -306,11 +261,6 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"ດາກຊະມາ ເກຣັກ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"ກົວເຕມາລານ ເຄັດຊອນ",
       displayCountSingular: null,
@@ -331,11 +281,6 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ໂຄຣ​ເອ​ທຽນ ຄູ​ນາ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"ໄຮ​ຕຽນ ກົວ​ເດ",
       displayCountSingular: null,
@@ -348,11 +293,6 @@ final _containerLo = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"ອິນ​ໂດ​ເນ​ຊຽນ ໂດ​ລ່າ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"ປອນ ໄອຣິຊ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -378,11 +318,6 @@ final _containerLo = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"ໄອ​ສ໌​ແລນ​ດິກ ໂຄຣ​ນາ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"ລິຣາ ອີຕາລີ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -471,21 +406,6 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"ລິ​ທົວ​ນຽນ ລິ​ທັ​ສ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"ຟຣັງ ລຸກຊຳບວກ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"ລັດ​ວຽນ ລັດ​ສ໌",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"ລິບ​ບຽນ ດິ​ນາ",
       displayCountSingular: null,
@@ -503,11 +423,6 @@ final _containerLo = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"ມາ​ລາ​ກາ​ຊີ ອາ​ເຣຍ​ຣີ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"ຟຣັງ ມາດາກັດສະກາ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -533,11 +448,6 @@ final _containerLo = CurrencyLocalizationContainer._(
     ),
     "MRU": CurrencyLocalization._(
       displayName: r"ມົວ​ຣິ​ທາ​ນຽນ ອູ​ກິວ​ຢາ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"ລິຣາ ມອນຕາ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -591,11 +501,6 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"ກິລເດີ ເນເທີແລນ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "NOK": CurrencyLocalization._(
       displayName: r"ນໍ​ເວ​ຈຽນ ​ໂຄຣນ",
       displayCountSingular: null,
@@ -643,11 +548,6 @@ final _containerLo = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"ໂປ​ລິ​ຊ ຊະ​ລໍ​ຕີ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"ເອສກູໂດ ໂປຕູເກສ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -716,16 +616,6 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"ໂຕລາ ສະໂລວິເນຍ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"ຄູໂຣນາ ສະໂລວັກ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"ເຊຍ​ນາ ​ເລໂອ​ນຽນ ເລ​ໂອນ",
       displayCountSingular: null,
@@ -741,18 +631,8 @@ final _containerLo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"ກິລເດີ ຊູຣິນາເມ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "STN": CurrencyLocalization._(
       displayName: r"ເຊົາ ໂທ​ເມ ແອນ ພ​ຣິນ​ຊິ​ປີ ໂດບຣາ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"ໂກລອງ ເອກາວາດໍ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

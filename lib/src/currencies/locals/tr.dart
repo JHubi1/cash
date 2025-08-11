@@ -26,11 +26,6 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Hollanda Antilleri guldeni",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Angola kvanzası",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerTr = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"Arjantin pesosu",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"Avusturya Şilini",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerTr = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"Bangladeş takası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"Belçika Frangı",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -161,6 +146,11 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Çin yuanı (offshore)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Çin yuanı",
       displayCountSingular: null,
@@ -176,11 +166,6 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Konvertibl Küba pesosu",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"Küba pesosu",
       displayCountSingular: null,
@@ -191,18 +176,8 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"Güney Kıbrıs Lirası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"Çek korunası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"Alman Markı",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -226,11 +201,6 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"Estonya Krunu",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"Mısır lirası",
       displayCountSingular: null,
@@ -238,11 +208,6 @@ final _containerTr = CurrencyLocalizationContainer._(
     ),
     "ERN": CurrencyLocalization._(
       displayName: r"Eritre nakfası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"İspanyol Pezetası",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -256,11 +221,6 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"Fin Markkası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"Fiji doları",
       displayCountSingular: null,
@@ -268,11 +228,6 @@ final _containerTr = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"Falkland Adaları lirası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"Fransız Frangı",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -306,11 +261,6 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"Yunan Drahmisi",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"Guatemala quetzalı",
       displayCountSingular: null,
@@ -331,11 +281,6 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Hırvatistan kunası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"Haiti gurdu",
       displayCountSingular: null,
@@ -348,11 +293,6 @@ final _containerTr = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"Endonezya rupisi",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"İrlanda Lirası",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -378,11 +318,6 @@ final _containerTr = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"İzlanda kronu",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"İtalyan Lireti",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -471,21 +406,6 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"Litvanya Litası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"Lüksemburg Frangı",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"Letonya Latı",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"Libya dinarı",
       displayCountSingular: null,
@@ -503,11 +423,6 @@ final _containerTr = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"Madagaskar ariarisi",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"Madagaskar Frangı",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -533,11 +448,6 @@ final _containerTr = CurrencyLocalizationContainer._(
     ),
     "MRU": CurrencyLocalization._(
       displayName: r"Moritanya ugiyası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"Malta Lirası",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -591,11 +501,6 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"Hollanda Florini",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "NOK": CurrencyLocalization._(
       displayName: r"Norveç kronu",
       displayCountSingular: null,
@@ -643,11 +548,6 @@ final _containerTr = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"Polonya zlotisi",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"Portekiz Esküdosu",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -716,16 +616,6 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"Slovenya Toları",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"Slovak Korunası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"Sierra Leone leonesi",
       displayCountSingular: null,
@@ -741,18 +631,8 @@ final _containerTr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"Surinam Guldeni",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "STN": CurrencyLocalization._(
       displayName: r"Sao Tome ve Principe dobrası",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"El Salvador Kolonu",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

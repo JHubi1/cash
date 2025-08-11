@@ -26,11 +26,6 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Nederlânsk-Antilliaanske gûne",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Angolese kwanza",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerFy = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"Argentynske peso",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"Eastenrykse schilling",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerFy = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"Bengalese taka",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"Belgyske frank",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -176,11 +161,6 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Kubaanske convertibele peso",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"Kubaanske peso",
       displayCountSingular: null,
@@ -191,18 +171,8 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"Cyprysk pûn",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"Tsjechyske kroon",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"Dútske mark",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -226,11 +196,6 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"Estlânske kroon",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"Egyptysk pûn",
       displayCountSingular: null,
@@ -238,11 +203,6 @@ final _containerFy = CurrencyLocalizationContainer._(
     ),
     "ERN": CurrencyLocalization._(
       displayName: r"Eritrese nakfa",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"Spaanske peseta",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -256,11 +216,6 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"Finse markka",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"Fiji-dollar",
       displayCountSingular: null,
@@ -268,11 +223,6 @@ final _containerFy = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"Falklâneilânske pûn",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"Franske franc",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -306,11 +256,6 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"Grykse drachme",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"Guatemalteekse quetzal",
       displayCountSingular: null,
@@ -331,11 +276,6 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Kroatyske kuna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"Haïtiaanske gourde",
       displayCountSingular: null,
@@ -348,11 +288,6 @@ final _containerFy = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"Indonesyske roepia",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"Ierske pûn",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -378,11 +313,6 @@ final _containerFy = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"Yslânske kroon",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"Italiaanske lire",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -471,21 +401,6 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"Litouwse litas",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"Lúksemboargske frank",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"Letse lats",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"Libyske dinar",
       displayCountSingular: null,
@@ -503,11 +418,6 @@ final _containerFy = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"Malagassyske ariary",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"Malagassyske franc",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -533,11 +443,6 @@ final _containerFy = CurrencyLocalizationContainer._(
     ),
     "MRU": CurrencyLocalization._(
       displayName: r"Mauritaanske ouguiya",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"Maltese lire",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -591,11 +496,6 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"Nederlânske gûne",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "NOK": CurrencyLocalization._(
       displayName: r"Noarske kroon",
       displayCountSingular: null,
@@ -643,11 +543,6 @@ final _containerFy = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"Poalske zloty",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"Portugeeske escudo",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -716,16 +611,6 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"Sloveenske tolar",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"Slowaakse koruna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"Sierraleoonse leone",
       displayCountSingular: null,
@@ -741,18 +626,8 @@ final _containerFy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"Surinaamske gulden",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "STN": CurrencyLocalization._(
       displayName: r"Santomese dobra",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"Salvadoraanske colón",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

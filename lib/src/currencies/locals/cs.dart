@@ -26,11 +26,6 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"nizozemskoantilský gulden",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"angolská kwanza",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerCs = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"argentinské peso",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"rakouský šilink",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerCs = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"bangladéšská taka",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"belgický frank",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -161,6 +146,11 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"čínský jüan (offshore)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"čínský jüan",
       displayCountSingular: null,
@@ -176,11 +166,6 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"kubánské konvertibilní peso",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"kubánské peso",
       displayCountSingular: null,
@@ -191,18 +176,8 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"kyperská libra",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"česká koruna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"německá marka",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -226,11 +201,6 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"estonská koruna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"egyptská libra",
       displayCountSingular: null,
@@ -238,11 +208,6 @@ final _containerCs = CurrencyLocalizationContainer._(
     ),
     "ERN": CurrencyLocalization._(
       displayName: r"eritrejská nakfa",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"španělská peseta",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -256,11 +221,6 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"finská marka",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"fidžijský dolar",
       displayCountSingular: null,
@@ -268,11 +228,6 @@ final _containerCs = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"falklandská libra",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"francouzský frank",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -306,11 +261,6 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"řecká drachma",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"guatemalský quetzal",
       displayCountSingular: null,
@@ -331,11 +281,6 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"chorvatská kuna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"haitský gourde",
       displayCountSingular: null,
@@ -348,11 +293,6 @@ final _containerCs = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"indonéská rupie",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"irská libra",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -378,11 +318,6 @@ final _containerCs = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"islandská koruna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"italská lira",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -471,21 +406,6 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"litevský litas",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"lucemburský frank",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"lotyšský lat",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"libyjský dinár",
       displayCountSingular: null,
@@ -503,11 +423,6 @@ final _containerCs = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"madagaskarský ariary",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"madagaskarský frank",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -533,11 +448,6 @@ final _containerCs = CurrencyLocalizationContainer._(
     ),
     "MRU": CurrencyLocalization._(
       displayName: r"mauritánská ouguiya",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"maltská lira",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -591,11 +501,6 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"nizozemský gulden",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "NOK": CurrencyLocalization._(
       displayName: r"norská koruna",
       displayCountSingular: null,
@@ -643,11 +548,6 @@ final _containerCs = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"polský zlotý",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"portugalské escudo",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -716,16 +616,6 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"slovinský tolar",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"slovenská koruna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"sierraleonský leone",
       displayCountSingular: null,
@@ -741,18 +631,8 @@ final _containerCs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"surinamský zlatý",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "STN": CurrencyLocalization._(
       displayName: r"svatotomášská dobra",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"salvadorský colón",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

@@ -26,11 +26,6 @@ final _containerTk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Niderland antil guldeni",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Angola kwanzasy",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerTk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Hytaý ýuany (ofşor)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Hytaý ýuany",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerTk = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"Kosta-Rika kolony",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Konwertirlenýän kuba pesosy",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerTk = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"Gonduras lempirasy",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Horwat kunasy",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

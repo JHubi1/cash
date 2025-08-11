@@ -26,11 +26,6 @@ final _containerKu = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"guldenê antîlê yê holandî",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"kwanzayê angolayî",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerKu = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"yûanê çînî (offshore)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"yûanê çînî",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerKu = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"kolonê kosta rîkayî",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"pesoyên konvertibl ê kubayî",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerKu = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"lempîrayê hondurasî",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"kûnayê xirwatî",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

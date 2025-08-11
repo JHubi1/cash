@@ -26,11 +26,6 @@ final _containerHa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Antillean Guilder na ƙasar Netherlands",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Kuɗin Angola",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerHa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Yuwan na ƙasar Sin (na wajen ƙasa)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Yuwan na ƙasar Sin",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerHa = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"Colón na ƙasar Costa Rica",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Peso mai fuska biyu na ƙasar Kuba",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerHa = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"Lempira na ƙasar Honduras",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Kuɗin Croatia",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

@@ -26,12 +26,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName:
-          r"𑄚𑄬𑄘𑄢𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴 𑄃𑄳𑄠𑄚𑄴𑄑𑄨𑄣𑄨𑄠𑄚𑄴 𑄉𑄪𑄣𑄴𑄓𑄬𑄢𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"𑄃𑄳𑄠𑄋𑄴𑄉𑄮𑄣𑄚𑄴 𑄇𑄧𑄤𑄮𑄚𑄴𑄎",
       displayCountSingular: null,
@@ -39,11 +33,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"𑄃𑄢𑄴𑄎𑄬𑄚𑄴𑄑𑄨𑄚 𑄛𑄬𑄥𑄮",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"𑄃𑄧𑄌𑄴𑄑𑄳𑄢𑄨𑄠𑄚𑄴 𑄥𑄨𑄣𑄨𑄁",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -74,11 +63,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"𑄝𑄁𑄣𑄘𑄬𑄥𑄨 𑄑𑄬𑄋",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"𑄝𑄬𑄣𑄴𑄘𑄎𑄨𑄠𑄚𑄴 𑄜𑄳𑄢𑄋𑄴𑄇𑄴",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -177,11 +161,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"𑄇𑄨𑄅𑄪𑄝𑄚𑄴 𑄝𑄮𑄘𑄮𑄣𑄨𑄛𑄢𑄬 𑄛𑄬𑄥𑄮",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"𑄇𑄨𑄅𑄪𑄝𑄚𑄴 𑄛𑄬𑄥𑄮",
       displayCountSingular: null,
@@ -192,18 +171,8 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"𑄥𑄭𑄛𑄳𑄢𑄥𑄴 𑄛𑄃𑄪𑄚𑄴𑄓𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"𑄌𑄬𑄇𑄴 𑄛𑄳𑄢𑄧𑄎𑄖𑄧𑄚𑄴𑄖𑄳𑄢𑄧 𑄇𑄮𑄢𑄪𑄚",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"𑄓𑄧𑄠𑄧𑄌𑄴 𑄟𑄢𑄴𑄇𑄴",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -227,11 +196,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"𑄃𑄬𑄌𑄴𑄖𑄮𑄚𑄨𑄠 𑄇𑄳𑄢𑄪𑄚𑄨",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"𑄟𑄨𑄥𑄧𑄢𑄩𑄠𑄴 𑄛𑄅𑄪𑄚𑄴𑄓𑄴",
       displayCountSingular: null,
@@ -239,11 +203,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
     ),
     "ERN": CurrencyLocalization._(
       displayName: r"𑄃𑄬𑄢𑄨𑄑𑄳𑄢𑄨𑄠𑄬𑄚𑄴 𑄚𑄇𑄴𑄜",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"𑄥𑄳𑄛𑄳𑄠𑄚𑄨𑄥𑄴 𑄛𑄬𑄥𑄬𑄖",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -257,11 +216,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"𑄜𑄨𑄚𑄨𑄥𑄴 𑄟𑄢𑄴𑄇",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"𑄜𑄨𑄎𑄨 𑄓𑄧𑄣𑄢𑄴",
       displayCountSingular: null,
@@ -269,11 +223,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"𑄜𑄧𑄇𑄴𑄣𑄳𑄠𑄚𑄴𑄓𑄴 𑄉𑄭 𑄉𑄭 𑄞𑄨𑄘𑄬 𑄛𑄃𑄪𑄚𑄴𑄓𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"𑄜𑄧𑄢𑄥𑄨 𑄜𑄳𑄢𑄁𑄇𑄴",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -307,11 +256,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"𑄉𑄳𑄢𑄩𑄇𑄴 𑄘𑄳𑄢𑄌𑄴𑄟",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"𑄉𑄪𑄠𑄖𑄬𑄟𑄣𑄧 𑄇𑄪𑄠𑄬𑄖𑄴𑄎𑄣𑄴",
       displayCountSingular: null,
@@ -332,11 +276,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"𑄇𑄳𑄢𑄮𑄠𑄬𑄥𑄨𑄠𑄚𑄴 𑄇𑄪𑄚",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"𑄦𑄭𑄖𑄨 𑄉𑄯𑄢𑄴𑄘𑄬",
       displayCountSingular: null,
@@ -349,11 +288,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"𑄃𑄨𑄚𑄴𑄘𑄮𑄚𑄬𑄥𑄨𑄠𑄚𑄴 𑄢𑄪𑄛𑄨𑄠𑄳𑄦𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"𑄃𑄨𑄢𑄨𑄌𑄴 𑄛𑄅𑄪𑄚𑄳𑄓𑄴",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -379,11 +313,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"𑄃𑄭𑄥𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄇𑄳𑄢𑄯𑄚𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"𑄃𑄨𑄖𑄣𑄨𑄠𑄧 𑄣𑄨𑄢",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -472,21 +401,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"𑄣𑄨𑄗𑄭𑄪𑄚𑄨𑄠𑄚𑄴 𑄣𑄨𑄑",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"𑄣𑄪𑄇𑄴𑄥𑄬𑄟𑄴𑄝𑄢𑄴𑄉𑄴 𑄜𑄳𑄢𑄇𑄳𑄋𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"𑄣𑄳𑄠𑄑𑄴𑄞𑄨𑄠𑄚𑄴 𑄣𑄳𑄠𑄑𑄴𑄥𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"𑄣𑄨𑄝𑄨𑄠𑄚𑄴 𑄓𑄧𑄣𑄢𑄴",
       displayCountSingular: null,
@@ -507,11 +421,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"𑄟𑄘𑄉𑄌𑄴𑄇𑄢𑄴 𑄜𑄳𑄢𑄋𑄳𑄇𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "MKD": CurrencyLocalization._(
       displayName: r"𑄟𑄳𑄠𑄥𑄬𑄓𑄮𑄚𑄨𑄠𑄚𑄴 𑄘𑄨𑄚𑄢𑄴",
       displayCountSingular: null,
@@ -529,11 +438,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
     ),
     "MOP": CurrencyLocalization._(
       displayName: r"𑄟𑄳𑄠𑄇𑄳𑄠𑄃𑄮 𑄛𑄑𑄇",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"𑄟𑄣𑄴𑄑 𑄣𑄨𑄢",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -588,11 +492,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"𑄚𑄬𑄘𑄢𑄴𑄣𑄳𑄠𑄚𑄳𑄓𑄴 𑄉𑄪𑄣𑄴𑄓𑄬𑄢𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "NOK": CurrencyLocalization._(
       displayName: r"𑄚𑄧𑄢𑄴𑄃𑄮𑄠𑄬 𑄇𑄳𑄢𑄯𑄚𑄴",
       displayCountSingular: null,
@@ -640,11 +539,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"𑄛𑄮𑄣𑄨𑄌𑄴 𑄎𑄧𑄣𑄮𑄑𑄨",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"𑄛𑄧𑄢𑄴𑄖𑄪𑄉𑄨𑄌𑄴 𑄃𑄬𑄥𑄴𑄇𑄪𑄓𑄮",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -713,16 +607,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"𑄥𑄳𑄣𑄮𑄞𑄚𑄨𑄠 𑄑𑄮𑄣𑄢𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"𑄥𑄳𑄣𑄮𑄞𑄇𑄴 𑄇𑄮𑄢𑄪𑄚",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"𑄥𑄨𑄠𑄬𑄢𑄣𑄨𑄠𑄧𑄚𑄴 𑄣𑄨𑄠𑄧𑄚𑄴",
       displayCountSingular: null,
@@ -735,16 +619,6 @@ final _containerCcp = CurrencyLocalizationContainer._(
     ),
     "SRD": CurrencyLocalization._(
       displayName: r"𑄥𑄪𑄢𑄨𑄚𑄟𑄴 𑄓𑄧𑄣𑄢𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"𑄥𑄪𑄢𑄨𑄚𑄟𑄴 𑄉𑄨𑄣𑄴𑄓𑄢𑄴",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"𑄃𑄬𑄣𑄴 𑄥𑄳𑄠𑄣𑄴𑄞𑄮𑄓𑄮𑄢𑄴 𑄇𑄮𑄣𑄮𑄚𑄴",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

@@ -26,11 +26,6 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Холандски антилски гилдер",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Анголска кванза",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerMk = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"Аргентински пезос",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"Австралиски Шилинг",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerMk = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"Бангладешка така",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"Белгиски Франк",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -161,6 +146,11 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Кинески јуан (офшор)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Кинески јуан",
       displayCountSingular: null,
@@ -176,11 +166,6 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Кубански конвертибилен пезос",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"Кубански пезос",
       displayCountSingular: null,
@@ -191,18 +176,8 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"Кипарска фунта",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"Чешка круна",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"Германска Марка",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -236,11 +211,6 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"Шпанска Пезета",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "ETB": CurrencyLocalization._(
       displayName: r"Етиописки бир",
       displayCountSingular: null,
@@ -251,11 +221,6 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"Финска марка",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"Фиџиски долар",
       displayCountSingular: null,
@@ -263,11 +228,6 @@ final _containerMk = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"Фолкландска фунта",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"Француски франк",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -301,11 +261,6 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"Грчка драхма",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"Гватемалски кветцал",
       displayCountSingular: null,
@@ -326,11 +281,6 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Хрватска куна",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"Хаитски гурд",
       displayCountSingular: null,
@@ -343,11 +293,6 @@ final _containerMk = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"Индонезиска рупија",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"Ирска фунта",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -373,11 +318,6 @@ final _containerMk = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"Исландска крона",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"Италијанска лира",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -466,21 +406,6 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"Литваниска лита",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"Луксембуршки франк",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"Латвијски лат",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"Либијски динар",
       displayCountSingular: null,
@@ -526,11 +451,6 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"Малтешка лира",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "MUR": CurrencyLocalization._(
       displayName: r"Мавританска рупија",
       displayCountSingular: null,
@@ -573,11 +493,6 @@ final _containerMk = CurrencyLocalizationContainer._(
     ),
     "NIO": CurrencyLocalization._(
       displayName: r"Никарагванска кордоба",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"Холандски гилдер",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -628,11 +543,6 @@ final _containerMk = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"Полска злота",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"Португалско ескудо",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -701,16 +611,6 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"Словенечки толар",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"Словачка круна",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"Сиералеонско леоне",
       displayCountSingular: null,
@@ -726,18 +626,8 @@ final _containerMk = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"Суринамски гилдер",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "STN": CurrencyLocalization._(
       displayName: r"Добра на Сао Томе и Принсипе",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"Салвадорски колон",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

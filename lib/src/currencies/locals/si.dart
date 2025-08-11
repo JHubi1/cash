@@ -26,11 +26,6 @@ final _containerSi = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"නෙදර්ලන්ත ඇන්ටිලියන් ගිල්ඩර්",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ඇන්ගෝලානු ක්වන්සා",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerSi = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"චීන යුආන් (එතෙර)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"චීන යුආන්",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerSi = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"කොස්ට රිකා කොලෝන්",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"මාරුකළ හැකි කියුබානු පැසෝ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerSi = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"හොන්ඩුරානු ලෙම්පිරා",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ක්‍රොඒෂියානු කූනා",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -413,16 +403,6 @@ final _containerSi = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"ලෙසෝතෝ ලොටි",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"ලිතුවේනියානු",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"ලැට්වියානු ලැට්ස්",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

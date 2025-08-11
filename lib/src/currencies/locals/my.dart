@@ -26,11 +26,6 @@ final _containerMy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"နယ်သာလန် အန်တီလန် ဂင်းဒါး",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"အန်ဂိုလာ ကွမ်ဇာ",
       displayCountSingular: null,
@@ -68,11 +63,6 @@ final _containerMy = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"ဘင်္ဂလားဒေ့ရှ် တာကာ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"ဘယ်လ်ဂျီယမ် ဖရန့်",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -156,6 +146,11 @@ final _containerMy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"တရုတ် ယွမ် (ဟောင်ကောင်)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"တရုတ် ယွမ်",
       displayCountSingular: null,
@@ -171,11 +166,6 @@ final _containerMy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"နိုင်ငံခြားငွေလဲလှယ်နိုင်သော ကျူးဘားပီဆို",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"ကျူးဘား ပီဆို",
       displayCountSingular: null,
@@ -186,18 +176,8 @@ final _containerMy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"ဆိုက်ပရက်စ် ပေါင်",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"ချက် ခိုရိုနာ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"ဂျာမဏီ မတ်",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -231,11 +211,6 @@ final _containerMy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"စပိန် ပယ်စေးတာ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "ETB": CurrencyLocalization._(
       displayName: r"အီသီယိုးပီးယား ဘီးယာ",
       displayCountSingular: null,
@@ -253,11 +228,6 @@ final _containerMy = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"ဖော့ကလန်ကျွန်းစု ပေါင်",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"ပြင်သစ် ဖရန့်",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -308,11 +278,6 @@ final _containerMy = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"ဟွန်ဒူးရပ်စ် လမ်းပီရာ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ခရိုအေးရှား ခူးနာ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -438,16 +403,6 @@ final _containerMy = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"လီဆိုသို လိုတီ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"လစ်သူယေးနီးယားလီတားစ်",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"လတ်ဗီးယားလတ်",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

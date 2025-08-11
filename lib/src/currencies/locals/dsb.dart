@@ -26,11 +26,6 @@ final _containerDsb = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"nižozemsko-antilski gulden",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"angolska kwanza",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerDsb = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"argentinski peso",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"rakuski šiling",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerDsb = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"bangladešska taka",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"belgiski frank",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -161,6 +146,11 @@ final _containerDsb = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"chinski yuan (offshore)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"chinski yuan",
       displayCountSingular: null,
@@ -173,11 +163,6 @@ final _containerDsb = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"kosta-rikański colón",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"kubański konwertibelny peso",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -293,11 +278,6 @@ final _containerDsb = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"honduraska lempira",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"chorwatska kuna",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -423,16 +403,6 @@ final _containerDsb = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"lesothiski loti",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"litawski litas",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"letiski lat",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -658,11 +628,6 @@ final _containerDsb = CurrencyLocalizationContainer._(
     ),
     "STN": CurrencyLocalization._(
       displayName: r"são-tomeska dobra",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"el-salvadorski colón",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

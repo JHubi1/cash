@@ -26,11 +26,6 @@ final _containerHy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"նիդեռլանդական անտիլյան գուլդեն",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"անգոլական կվանզա",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerHy = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"չինական օֆշորային յուան",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"չինական յուան",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerHy = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"Կոստա Ռիկայի կոլոն",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"կուբայական փոխարկվող պեսո",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerHy = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"հոնդուրասական լեմպիրա",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"խորվաթական կունա",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -413,16 +403,6 @@ final _containerHy = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"լեսոթոյական լոտի",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"Լիտվական լիտ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"Լատվիական լատ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

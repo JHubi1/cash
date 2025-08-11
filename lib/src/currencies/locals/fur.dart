@@ -16,18 +16,8 @@ final _containerFur = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"Selin austriac",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AUD": CurrencyLocalization._(
       displayName: r"dolar australian",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"Franc de Belgjiche",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -76,11 +66,6 @@ final _containerFur = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"Marc todesc",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "DKK": CurrencyLocalization._(
       displayName: r"corone danese",
       displayCountSingular: null,
@@ -96,11 +81,6 @@ final _containerFur = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"Franc francês",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GBP": CurrencyLocalization._(
       displayName: r"sterline britaniche",
       displayCountSingular: null,
@@ -108,11 +88,6 @@ final _containerFur = CurrencyLocalizationContainer._(
     ),
     "HKD": CurrencyLocalization._(
       displayName: r"dolar di Hong Kong",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Kuna cravuate",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -131,11 +106,6 @@ final _containerFur = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"Lire taliane",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "JPY": CurrencyLocalization._(
       displayName: r"yen gjaponês",
       displayCountSingular: null,
@@ -143,11 +113,6 @@ final _containerFur = CurrencyLocalizationContainer._(
     ),
     "KRW": CurrencyLocalization._(
       displayName: r"won de Coree dal Sud",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"Lats leton",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -203,16 +168,6 @@ final _containerFur = CurrencyLocalizationContainer._(
     ),
     "SEK": CurrencyLocalization._(
       displayName: r"corone svedese",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"Talar sloven",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"Corone slovache",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

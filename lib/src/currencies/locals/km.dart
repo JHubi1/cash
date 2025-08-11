@@ -26,11 +26,6 @@ final _containerKm = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"ហ្គីឌិន​ហុល្លង់​អង់ទីលៀន",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ក្វាន់ហ្សា​អង់ហ្គោឡា",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerKm = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"យ័នចិន (ក្រៅប្រទេស)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"យ័នចិន",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerKm = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"កូឡុង​កូស្តារីកា",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ប៉េសូ​គុយបាអាច​បម្លែង​បាន",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerKm = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"លិមពីរ៉ា​ហុងឌូរ៉ាស",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"គូណា​ក្រូអាត",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -413,16 +403,6 @@ final _containerKm = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"ឡូទីឡេសូតូ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"លីតា​លីទុយអានី",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"ឡាត់​ឡេតូនី",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

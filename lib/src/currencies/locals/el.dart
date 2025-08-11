@@ -26,11 +26,6 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Γκίλντα Ολλανδικών Αντιλλών",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Κουάνζα Ανγκόλας",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerEl = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"Πέσο Αργεντινής",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"Σελίνι Αυστρίας",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerEl = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"Τάκα Μπαγκλαντές",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"Φράγκο Βελγίου",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -161,6 +146,11 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Γουάν Κίνας (υπεράκτιο)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Γουάν Κίνας",
       displayCountSingular: null,
@@ -176,11 +166,6 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Μετατρέψιμο πέσο Κούβας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"Πέσο Κούβας",
       displayCountSingular: null,
@@ -191,18 +176,8 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"Λίρα Κύπρου",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"Κορόνα Τσεχίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"Μάρκο Γερμανίας",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -226,11 +201,6 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"Κορόνα Εσθονίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"Λίρα Αιγύπτου",
       displayCountSingular: null,
@@ -238,11 +208,6 @@ final _containerEl = CurrencyLocalizationContainer._(
     ),
     "ERN": CurrencyLocalization._(
       displayName: r"Νάκφα Ερυθραίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"Πεσέτα Ισπανίας",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -256,11 +221,6 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"Μάρκο Φινλανδίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"Δολάριο Φίτζι",
       displayCountSingular: null,
@@ -268,11 +228,6 @@ final _containerEl = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"Λίρα Νήσων Φόκλαντ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"Φράγκο Γαλλίας",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -306,11 +261,6 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"Δραχμή Ελλάδας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"Κουετσάλ Γουατεμάλας",
       displayCountSingular: null,
@@ -331,11 +281,6 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Κούνα Κροατίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"Γκουρντ Αϊτής",
       displayCountSingular: null,
@@ -348,11 +293,6 @@ final _containerEl = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"Ρουπία Ινδονησίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"Λίρα Ιρλανδίας",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -378,11 +318,6 @@ final _containerEl = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"Κορόνα Ισλανδίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"Λιρέτα Ιταλίας",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -471,21 +406,6 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"Λίτα Λιθουανίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"Φράγκο Λουξεμβούργου",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"Λατς Λετονίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"Δηνάριο Λιβύης",
       displayCountSingular: null,
@@ -503,11 +423,6 @@ final _containerEl = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"Αριάρι Μαδαγασκάρης",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"Φράγκο Μαδαγασκάρης",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -533,11 +448,6 @@ final _containerEl = CurrencyLocalizationContainer._(
     ),
     "MRU": CurrencyLocalization._(
       displayName: r"Ουγκίγια Μαυριτανίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"Λιρέτα Μάλτας",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -583,11 +493,6 @@ final _containerEl = CurrencyLocalizationContainer._(
     ),
     "NIO": CurrencyLocalization._(
       displayName: r"Χρυσή Κόρδοβα Νικαράγουας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"Γκίλντα Ολλανδίας",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -638,11 +543,6 @@ final _containerEl = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"Ζλότι Πολωνίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"Εσκούδο Πορτογαλίας",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -711,16 +611,6 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"Τόλαρ Σλοβενίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"Κορόνα Σλοβενίας",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"Λεόνε Σιέρα Λεόνε",
       displayCountSingular: null,
@@ -736,18 +626,8 @@ final _containerEl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"Γκίλντα Σουρινάμ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "STN": CurrencyLocalization._(
       displayName: r"Ντόμπρα Σάο Τομέ και Πρίνσιπε",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"Κολόν Ελ Σαλβαδόρ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

@@ -26,11 +26,6 @@ final _containerIa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"florino antillan",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"kwanza angolan",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerIa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"yuan chinese (extracontinental)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"yuan chinese",
       displayCountSingular: null,
@@ -166,11 +166,6 @@ final _containerIa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"peso cuban convertibile",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"peso cuban",
       displayCountSingular: null,
@@ -183,11 +178,6 @@ final _containerIa = CurrencyLocalizationContainer._(
     ),
     "CZK": CurrencyLocalization._(
       displayName: r"corona chec",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"Marco geman",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -211,11 +201,6 @@ final _containerIa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"Corona estonian",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"libra egyptie",
       displayCountSingular: null,
@@ -236,11 +221,6 @@ final _containerIa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"Marco finnese",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"dollar fijian",
       displayCountSingular: null,
@@ -248,11 +228,6 @@ final _containerIa = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"libra falklandese",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"Franco francese",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -306,11 +281,6 @@ final _containerIa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"kuna croate",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"gourde haitian",
       displayCountSingular: null,
@@ -323,11 +293,6 @@ final _containerIa = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"rupia indonesian",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"Libra irlandese",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -528,11 +493,6 @@ final _containerIa = CurrencyLocalizationContainer._(
     ),
     "NIO": CurrencyLocalization._(
       displayName: r"cordoba nicaraguan",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"Florino nederlandese",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

@@ -26,11 +26,6 @@ final _containerKa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"ნიდერლანდების ანტილების გულდენი",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ანგოლური კვანზა",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"არგენტინული პესო",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"ავსტრიული შილინგი",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"ბანგლადეშური ტაკა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"ბელგიური ფრანკი",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -161,6 +146,11 @@ final _containerKa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"ჩინური იუანი (ოფშორი)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"ჩინური იუანი",
       displayCountSingular: null,
@@ -176,11 +166,6 @@ final _containerKa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"კუბური კონვერტირებადი პესო",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"კუბური პესო",
       displayCountSingular: null,
@@ -191,18 +176,8 @@ final _containerKa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"კვიპროსის გირვანქა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"ჩეხური კრონა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"გერმანული მარკა",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -226,11 +201,6 @@ final _containerKa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"ესტონური კრუნა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"ეგვიპტური გირვანქა",
       displayCountSingular: null,
@@ -238,11 +208,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "ERN": CurrencyLocalization._(
       displayName: r"ერიტრეის ნაკფა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"ესპანური პესეტა",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -256,11 +221,6 @@ final _containerKa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"ფინური მარკა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"ფიჯის დოლარი",
       displayCountSingular: null,
@@ -268,11 +228,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"ფოლკლენდის კუნძულების ფუნტი",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"ფრანგული ფრანკი",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -306,11 +261,6 @@ final _containerKa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"ბერძნული დრაჰმა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"გვატემალური კეტსალი",
       displayCountSingular: null,
@@ -331,11 +281,6 @@ final _containerKa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ხორვატული კუნა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"ჰაიტური გურდი",
       displayCountSingular: null,
@@ -348,11 +293,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"ინდონეზიური რუპია",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"ირლანდიური გირვანქა",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -378,11 +318,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"ისლანდიური კრონა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"იტალიური ლირა",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -471,21 +406,6 @@ final _containerKa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"ლიტვური ლიტა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"ლუქსემბურგის ფრანკი",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"ლატვიური ლატი",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"ლიბიური დინარი",
       displayCountSingular: null,
@@ -503,11 +423,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"მადაგასკარის არიარი",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"მადაგასკარის ფრანკი",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -533,11 +448,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "MRU": CurrencyLocalization._(
       displayName: r"მავრიტანული უგია",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"მალტის ლირა",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -583,11 +493,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "NIO": CurrencyLocalization._(
       displayName: r"ნიკარაგუას ოქროს კორდობა",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"ჰოლანდიური გულდენი",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -638,11 +543,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"პოლონური ზლოტი",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"პორტუგალიური ესკუდო",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -723,11 +623,6 @@ final _containerKa = CurrencyLocalizationContainer._(
     ),
     "SRD": CurrencyLocalization._(
       displayName: r"სურინამული დოლარი",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"სურინამის გულდენი",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

@@ -26,11 +26,6 @@ final _containerHi = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"नीदरलैंड एंटीलियन गिल्डर",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"अंगोला क्वांज़ा",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerHi = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"चीनी युआन (ऑफ़शोर)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"चीनी युआन",
       displayCountSingular: null,
@@ -166,11 +166,6 @@ final _containerHi = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"क्यूबाई परिवर्तनीय पेसो",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"क्यूबाई पेसो",
       displayCountSingular: null,
@@ -181,18 +176,8 @@ final _containerHi = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"साईप्रस पाऊंड",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"चेक गणराज्य कोरुना",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"डच मार्क",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -213,11 +198,6 @@ final _containerHi = CurrencyLocalizationContainer._(
     ),
     "DZD": CurrencyLocalization._(
       displayName: r"अल्जीरियाई दिनार",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"एस्टोनियाई क्रून्",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -248,11 +228,6 @@ final _containerHi = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"फ़ॉकलैंड द्वीपसमूह पाउंड",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"फ़्रांसीसी फ़्रैंक",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -306,11 +281,6 @@ final _containerHi = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"क्रोएशियाई कुना",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"हैतियाई गर्ड",
       displayCountSingular: null,
@@ -348,11 +318,6 @@ final _containerHi = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"आइसलैंडिक क्रोना",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"इतली का लीरा",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -438,16 +403,6 @@ final _containerHi = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"लेसोथो लोटी",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"लिथुआनियाई लितास",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"लात्वियन लैत्स",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -656,16 +611,6 @@ final _containerHi = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"स्लोवेनियाई तोलार",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"स्लोवाक कोरुना",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"सिएरा लियोनियन लियोन",
       displayCountSingular: null,
@@ -678,11 +623,6 @@ final _containerHi = CurrencyLocalizationContainer._(
     ),
     "SRD": CurrencyLocalization._(
       displayName: r"सूरीनामी डॉलर",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"सूरीनामी गिल्डर",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

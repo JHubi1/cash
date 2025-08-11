@@ -19,7 +19,7 @@ void main() {
       expect(cashEur.currency, eur);
       expect(
         cashEur.value,
-        closeTo(10 * eur.exchangeRate / usd.exchangeRate, 0.0001),
+        closeTo(10 * eur.exchangeRate / usd.exchangeRate, 0.01),
       );
     });
 
@@ -38,7 +38,7 @@ void main() {
       expect(result.currency, usd);
       expect(
         result.value,
-        closeTo(10 + (10 / eur.exchangeRate * usd.exchangeRate), 0.0001),
+        closeTo(10 + (10 / eur.exchangeRate * usd.exchangeRate), 0.01),
       );
     });
 
@@ -57,7 +57,7 @@ void main() {
       expect(result.currency, usd);
       expect(
         result.value,
-        closeTo(10 - (10 / eur.exchangeRate * usd.exchangeRate), 0.0001),
+        closeTo(10 - (10 / eur.exchangeRate * usd.exchangeRate), 0.01),
       );
     });
 

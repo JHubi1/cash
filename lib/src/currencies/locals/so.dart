@@ -26,11 +26,6 @@ final _containerSo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Galdarka Nadarlaan Antiliyaan",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Kawansada Angola",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerSo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Yuwanta Shiinaha (Ofshoor)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Yuwanta Shiinaha",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerSo = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"Kolonka Kosta Riika",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Beesada Konfatibal ee Kuuba",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -206,11 +201,6 @@ final _containerSo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"Kroonka Estooniya",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"Bowndka Masar",
       displayCountSingular: null,
@@ -228,11 +218,6 @@ final _containerSo = CurrencyLocalizationContainer._(
     ),
     "EUR": CurrencyLocalization._(
       displayName: r"Yuuroo",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"Markkada Fiinishka ah",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -296,11 +281,6 @@ final _containerSo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Kunada Korooshiya",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"Goordada Hiyati",
       displayCountSingular: null,
@@ -313,11 +293,6 @@ final _containerSo = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"Rubiah Indonesiya",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"baawnka Ayrishka",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

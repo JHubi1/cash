@@ -26,11 +26,6 @@ final _containerTa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"நெதர்லேண்ட்ஸ் அன்டிலியன் கில்டர்",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"அங்கோலன் க்வான்ஸா",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerTa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"சீன யுவான் (ஆஃப்ஷோர்)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"சீன யுவான்",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerTa = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"கோஸ்டா ரிகன் கொலோன்",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"கியூபன் கன்வெர்டிபில் பெசோ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerTa = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"ஹோன்டூரன் லெம்பீரா",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"குரோஷியன் குனா",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -413,16 +403,6 @@ final _containerTa = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"லெசோதோ லோட்டி",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"லிதுவேனியன் லிடஸ்",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"லத்வியன் லாட்ஸ்",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

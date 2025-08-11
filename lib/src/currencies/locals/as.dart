@@ -26,11 +26,6 @@ final _containerAs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"নেডাৰলেণ্ডছ এণ্টিলিয়েন গিল্ডাৰ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"এংগোলান কোৱাঞ্জা",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerAs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"চীনা ইউৱান (অফশ্ব’ৰ)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"চীনা ইউৱান",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerAs = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"কোষ্টা ৰিকান কোলন",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"কিউবান ৰূপান্তৰযোগ্য পেছো",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerAs = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"হোন্দুৰান লেম্পিৰা",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ক্ৰোৱেছিয়ান কুনা",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

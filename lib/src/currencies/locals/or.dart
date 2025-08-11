@@ -26,11 +26,6 @@ final _containerOr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"ନେଦରଲ୍ୟାଣ୍ଡ୍ ଆଣ୍ଟିଲିୟ ଗିଲଡର୍",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ଅଙ୍ଗୋଲୀୟ କୱାନଜା",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerOr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"ଚିନୀ ୟୁଆନ୍ (ଅଫସୋର୍)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"ଚିନୀ ୟୁଆନ୍",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerOr = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"କୋଷ୍ଟା ରିକୀୟ କୋଲୋନ୍",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"କ୍ୟୁବାନ୍ କନଭର୍ଟିବଲ୍ ପେସୋ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerOr = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"ହୋଣ୍ଡୁରୀୟ ଲେମପିରା",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"କ୍ରୋଏସୀୟ କୁନା",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

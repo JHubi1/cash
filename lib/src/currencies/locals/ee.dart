@@ -26,11 +26,6 @@ final _containerEe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"netherlands antilleaga guilder",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"angolaga kwanza",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerEe = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"argentinaga peso",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"ɔstriaga schilling",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerEe = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"bangladeshga taka",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"beldziumga franc",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -176,11 +161,6 @@ final _containerEe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"cubaga convertible peso",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"cubaga peso",
       displayCountSingular: null,
@@ -191,18 +171,8 @@ final _containerEe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"saipriɔtga pound",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"czechga koruna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"germaniaga mark",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -226,11 +196,6 @@ final _containerEe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"estoniaga kroon",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"egyptega pound",
       displayCountSingular: null,
@@ -241,18 +206,8 @@ final _containerEe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"spaniaga peseta",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "ETB": CurrencyLocalization._(
       displayName: r"ethiopiaga birr",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"finlandga markka",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -263,11 +218,6 @@ final _containerEe = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"falkland islands pound",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"frentsiga franc",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -301,11 +251,6 @@ final _containerEe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"grisiga drachma",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"guatemalaga quetzal",
       displayCountSingular: null,
@@ -326,11 +271,6 @@ final _containerEe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"croatiaga kuna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"haitiga gourde",
       displayCountSingular: null,
@@ -343,11 +283,6 @@ final _containerEe = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"Indonesiaga rupiah",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"ireland pound",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -373,11 +308,6 @@ final _containerEe = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"icelandga króna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"italiaga lira",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -466,21 +396,6 @@ final _containerEe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"lithuaniaga litas",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"lazembɔgga franc",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"latviaga lats",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"libyaga dinar",
       displayCountSingular: null,
@@ -498,11 +413,6 @@ final _containerEe = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"malagasega ariary",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"malagasega franc",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -528,11 +438,6 @@ final _containerEe = CurrencyLocalizationContainer._(
     ),
     "MRU": CurrencyLocalization._(
       displayName: r"mɔritaniaga ouguiya",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"maltaga lira",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -563,11 +468,6 @@ final _containerEe = CurrencyLocalizationContainer._(
     ),
     "NIO": CurrencyLocalization._(
       displayName: r"nicaraguaga córdoba",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"hollandga guilder",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -618,11 +518,6 @@ final _containerEe = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"polandga zloty",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"pɔtugalga escudo",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -691,16 +586,6 @@ final _containerEe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"slovaniaga tolar",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"slovakga koruna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"sierra leonega leone",
       displayCountSingular: null,
@@ -716,18 +601,8 @@ final _containerEe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"surinamega guilder",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "STN": CurrencyLocalization._(
       displayName: r"são tomé kple príncipega dobra",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"salvadɔga colón",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

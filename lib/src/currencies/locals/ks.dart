@@ -26,11 +26,6 @@ final _containerKs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"نایدَرلینڑ اؠنٹٕلیٖیَن گِلڑَر",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"اؠنگولَن کوانزا",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"أرجَنٹیٖن پِسو",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"آسٹریَن شِلِنگ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"بَنگلادیٖشی ٹَکا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"بَلجِیَن فرینک",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -181,18 +166,8 @@ final _containerKs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"کیپروٹ پَوُڑ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"چیک کوریٖنا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"جٔرمَن مارٕک",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -211,11 +186,6 @@ final _containerKs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"اؠسٹونِیَن کرون",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"اِجِپٹِیَن پَوُنڑ",
       displayCountSingular: null,
@@ -223,11 +193,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "ERN": CurrencyLocalization._(
       displayName: r"رِٹریٖن نَفکا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"سِپینِش پیسِٹا",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -241,11 +206,6 @@ final _containerKs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"فِنِش مارکا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"فِجین ڈالر",
       displayCountSingular: null,
@@ -253,11 +213,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"فیکلینڑِس آیلینڑ پونڑ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"فرانسِسی فریک",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -291,11 +246,6 @@ final _containerKs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"گریٖسُک ڑرؠکما",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"گواٹَمالَن قیوٗٹزَل",
       displayCountSingular: null,
@@ -316,11 +266,6 @@ final _containerKs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"کروایشنُک کوٗنا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"حیشَنُک گوڑ",
       displayCountSingular: null,
@@ -333,11 +278,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"اِنڑونیشیاہُک رُپِیاہ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"اَیرلینڑُک پاونڑ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -363,11 +303,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"اَیسلینڑُک کرونا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"اِٹلیٖ یُک لیٖرا",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -456,21 +391,6 @@ final _containerKs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"لِتھوینِیَن لِٹاس",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"لَکزٕمبورگِیَن فرینک",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"لَتوِیَن لیٹس",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"لِبیَن دیٖنار",
       displayCountSingular: null,
@@ -488,11 +408,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"مؠلؠگیسی اؠریَری",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"مؠلؠگیسی فرینک",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -518,11 +433,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "MRU": CurrencyLocalization._(
       displayName: r"مورِٹینِیَن عوگیوٗیا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"مالٹیٖزُک لیٖرا",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -568,11 +478,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "NIO": CurrencyLocalization._(
       displayName: r"نِکؠراگُوؠن کورڑوبا اورو",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"ڈَچ گِلڑَر",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -623,11 +528,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"پولِش زلوٹی",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"پورتُگیٖز اؠسکیوٗڑو",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -691,16 +591,6 @@ final _containerKs = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"سلووینُک ٹولَر",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"سلووَک کَرونا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SOS": CurrencyLocalization._(
       displayName: r"سومالی شِلِنگ",
       displayCountSingular: null,
@@ -708,16 +598,6 @@ final _containerKs = CurrencyLocalizationContainer._(
     ),
     "SRD": CurrencyLocalization._(
       displayName: r"سُریٖنامُک ڈالَر",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"سُریٖنام گِلدَر",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"سَلویدَرُک کولَن",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

@@ -26,11 +26,6 @@ final _containerGl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"florín das Antillas Neerlandesas",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"kwanza angolano",
       displayCountSingular: null,
@@ -68,11 +63,6 @@ final _containerGl = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"taka de Bangladesh",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"Franco belga",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -156,6 +146,11 @@ final _containerGl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"iuán chinés (extracontinental)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"iuán chinés",
       displayCountSingular: null,
@@ -171,11 +166,6 @@ final _containerGl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"peso cubano convertible",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"peso cubano",
       displayCountSingular: null,
@@ -188,11 +178,6 @@ final _containerGl = CurrencyLocalizationContainer._(
     ),
     "CZK": CurrencyLocalization._(
       displayName: r"coroa checa",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"Marco alemán",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -226,11 +211,6 @@ final _containerGl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"Peseta española",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "ETB": CurrencyLocalization._(
       displayName: r"birr etíope",
       displayCountSingular: null,
@@ -248,11 +228,6 @@ final _containerGl = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"libra das Illas Malvinas",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"Franco francés",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -286,11 +261,6 @@ final _containerGl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"Dracma grego",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"quetzal guatemalteco",
       displayCountSingular: null,
@@ -311,11 +281,6 @@ final _containerGl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"kuna croata",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"gourde haitiana",
       displayCountSingular: null,
@@ -328,11 +293,6 @@ final _containerGl = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"rupia indonesia",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"Libra irlandesa",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -358,11 +318,6 @@ final _containerGl = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"coroa islandesa",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"Lira italiana",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -448,21 +403,6 @@ final _containerGl = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"loti de Lesoto",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"Litas lituana",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"Franco luxemburgués",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"Lats letón",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -561,11 +501,6 @@ final _containerGl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"Florín holandés",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "NOK": CurrencyLocalization._(
       displayName: r"coroa norueguesa",
       displayCountSingular: null,
@@ -613,11 +548,6 @@ final _containerGl = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"zloty polaco",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"Escudo portugués",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -703,11 +633,6 @@ final _containerGl = CurrencyLocalizationContainer._(
     ),
     "STN": CurrencyLocalization._(
       displayName: r"dobra de San Tomé e Príncipe",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"Colón salvadoreño",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

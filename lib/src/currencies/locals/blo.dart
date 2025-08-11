@@ -26,11 +26,6 @@ final _containerBlo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Holanɖ kaKarayiib kafɔlɔrɛŋ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Aŋgolaa kakʊwansa",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerBlo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Caɩna kayuwan ba sǝ̂ra afʊba ma",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Caɩna kayuwan",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerBlo = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"Kɔsta Rikaa kakolɔn",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Kubaa kapɛsoo ba sǝ̂ra afʊba ma",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerBlo = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"Hɔnɖuraasɩ kalampira",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Krowasii kakuna",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

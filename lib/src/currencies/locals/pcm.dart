@@ -26,11 +26,6 @@ final _containerPcm = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Nẹ́dalánds Antílián Gílda",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Angólá Kwánza",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerPcm = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Chaíná Yuan (ples-dẹm aúsaíd chaína)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Chaíná Yuan",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerPcm = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"Kósta Ríka Kólọn",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Kiúbá Pẹ́so Wé Pẹ́sin Fít Chenj",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerPcm = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"Họndúrán Lẹmpíra",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Kroéshia Kúna",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

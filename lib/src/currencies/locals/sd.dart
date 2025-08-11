@@ -26,11 +26,6 @@ final _containerSd = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"نيڌرلينڊ انٽليئن گلڊر",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"انگوليائي ڪوانزا",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerSd = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"چيني يوآن (غير ملڪي)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"چيني يوآن",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerSd = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"ڪوسٽا ريڪا ڪولن",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ڪيوبن ڪنورٽيبل پيسو",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerSd = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"هونڊوراس ليمپرا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ڪروشيائي ڪونا",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

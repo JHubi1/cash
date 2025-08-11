@@ -26,11 +26,6 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"നെതർലാൻഡ്‌സ് ആന്റിലൻ ഗിൽഡർ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"അംഗോളൻ ‍ക്വാൻസ",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerMl = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"അർജൻറീൻ പെസോ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"ഓസ്ട്രേലിയൻ ഷില്ലിംഗ്",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerMl = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"ബംഗ്ലാദേശി ടാക്ക",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"ബെൽജിയൻ ഫ്രാങ്ക്",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -161,6 +146,11 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"ചൈനീസ് യുവാൻ (ഓഫ്‌ഷോർ)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"ചൈനീസ് യുവാൻ",
       displayCountSingular: null,
@@ -176,11 +166,6 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ക്യൂബൻ കൺവേർട്ടബിൾ പെസോ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"ക്യൂബൻ പെസോ",
       displayCountSingular: null,
@@ -191,18 +176,8 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"സൈപ്രസ് പൌണ്ട്",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"ചെക്ക് റിപ്പബ്ലിക് കൊരുണ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"ജർമൻ മാർക്ക്",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -226,11 +201,6 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"എസ്റ്റൌനിയൻ ക്രൂൺ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"ഈജിപ്‌ഷ്യൻ പൗണ്ട്",
       displayCountSingular: null,
@@ -238,11 +208,6 @@ final _containerMl = CurrencyLocalizationContainer._(
     ),
     "ERN": CurrencyLocalization._(
       displayName: r"എറിത്രിയൻ നക്ഫ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"സ്പാനിഷ് പസെയ്റ്റ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -256,11 +221,6 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"ഫിന്നിഷ് മാർക്ക",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"ഫിജിയൻ ഡോളർ",
       displayCountSingular: null,
@@ -268,11 +228,6 @@ final _containerMl = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"ഫാക്ക്‌ലാന്റ് ദ്വീപുകളുടെ പൗണ്ട്",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"ഫ്രാങ്ക്",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -306,11 +261,6 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"ഗ്രീക്ക് ഡ്രാക്ക്മ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"ഗ്വാട്ടിമാലൻ ക്വെറ്റ്‌സൽ",
       displayCountSingular: null,
@@ -331,11 +281,6 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ക്രൊയേഷൻ ക്യുന",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"ഹെയ്‌തിയൻ ഗൂർഡ്",
       displayCountSingular: null,
@@ -348,11 +293,6 @@ final _containerMl = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"ഇന്തോനേഷ്യൻ റുപിയ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"ഐറിഷ് പൌണ്ട്",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -378,11 +318,6 @@ final _containerMl = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"ഐസ്‌ലാൻഡിക് ക്രോണ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"ഇറ്റാലിയൻ ലിറ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -471,21 +406,6 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"ലിത്വാനിയൻ ലിറ്റാസ്",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"ലക്സംബർഗ് ഫ്രാങ്ക്",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"ലാറ്റ്വിയൻ ലാറ്റ്സ്",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"ലിബിയൻ ദിനാർ",
       displayCountSingular: null,
@@ -503,11 +423,6 @@ final _containerMl = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"മഡഗാസി ഏരിയറി",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"മഡഗാസ്കർ ഫ്രാങ്ക്",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -533,11 +448,6 @@ final _containerMl = CurrencyLocalizationContainer._(
     ),
     "MRU": CurrencyLocalization._(
       displayName: r"മൗറിറ്റേനിയൻ ഔഗിയ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"മൽത്തീസ് ലിറ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -591,11 +501,6 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"നെതർലൻഡ്സ് ഗിൽഡർ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "NOK": CurrencyLocalization._(
       displayName: r"നോർവീജിയൻ ക്രോണെ",
       displayCountSingular: null,
@@ -643,11 +548,6 @@ final _containerMl = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"പോളിഷ് സ്ലോട്ടി",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"പോർച്ചുഗീസ് എസ്ക്യുഡോ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -716,16 +616,6 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"സ്ലൊവേനിയ റ്റോളർ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"സ്ലോവാക് കൊരൂന",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"സിയെറ ലിയോണിയൻ ലിയോൺ",
       displayCountSingular: null,
@@ -741,18 +631,8 @@ final _containerMl = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"സൂരിനാം ഗിൽഡർ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "STN": CurrencyLocalization._(
       displayName: r"സാവോ ടോമി ആൻഡ് പ്രിൻസിപെ ഡോബ്ര",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"എൽ സാൽവഡോർ കോളൻ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

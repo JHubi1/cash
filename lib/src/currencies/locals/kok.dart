@@ -26,11 +26,6 @@ final _containerKok = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"नॅदरलँड अँटिलियन गिल्डर",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"अंगोलन क्वॉन्ज",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerKok = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"चिनी युआन (ऑफशोर)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"चिनी युआन",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerKok = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"कोस्ता रिका कॉलॉन",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"क्युबान रुपांतरीत पेसो",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerKok = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"होंडुरान लेम्पिरा",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"क्रोयेषियन् कुना",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

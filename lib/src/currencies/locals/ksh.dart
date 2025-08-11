@@ -26,11 +26,6 @@ final _containerKsh = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"neederlängsch antillesche Jullde",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"angjolaanesche Kwansa",
       displayCountSingular: null,
@@ -166,11 +161,6 @@ final _containerKsh = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ömtuuschbaa kubaanesche Pesos",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"kubaanesche Peesos",
       displayCountSingular: null,
@@ -203,11 +193,6 @@ final _containerKsh = CurrencyLocalizationContainer._(
     ),
     "DZD": CurrencyLocalization._(
       displayName: r"aljeresche Denaa",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"Äßnesche Kruhne",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -288,11 +273,6 @@ final _containerKsh = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"hondureanesche Lempira",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"krowaatesche Kuna",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -418,16 +398,6 @@ final _containerKsh = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"lesoothesche Loti",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"littouesche Litas",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"lättesche Lats",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -636,11 +606,6 @@ final _containerKsh = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"ßlovaakesche Kruhne",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"ẞjärra-lejoneesesche Leone",
       displayCountSingular: null,
@@ -658,11 +623,6 @@ final _containerKsh = CurrencyLocalizationContainer._(
     ),
     "STN": CurrencyLocalization._(
       displayName: r"Dobra vun São Tomé un Príncipe",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"asalvadorejaanesche Cosan",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

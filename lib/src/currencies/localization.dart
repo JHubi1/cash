@@ -239,13 +239,18 @@ class CurrencyLocalizationContainer {
   }) : _currencies = currencies.map((k, v) => MapEntry(k.toLowerCase(), v));
 
   /// Resolve a [CurrencyLocalizationContainer] for a specific locale.
+  ///
+  /// For optimization reasons, the static getter [english] should be used if
+  /// you only want to access the English localizations specifically.
   static CurrencyLocalizationContainer? resolveLocale(String locale) =>
       _localizations.where((e) => e.locale == locale).firstOrNull;
 
   /// Resolve a [CurrencyLocalizationContainer] for a specific locale with
   /// fallback.
   static CurrencyLocalizationContainer resolveLocaleFallback(String locale) =>
-      resolveLocale(locale) ?? resolveLocale("en")!;
+      resolveLocale(locale) ?? english;
+
+  static CurrencyLocalizationContainer get english => _containerEn;
 }
 
 /// A localization for a single currency.

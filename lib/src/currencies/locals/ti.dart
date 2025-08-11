@@ -26,11 +26,6 @@ final _containerTi = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"ሆላንድ ኣንቲለያን ጊልደር",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ኣንጎላዊ ክዋንዛ",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerTi = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"ቻይናዊ ዩዋን (ካብ ባሕሪ ወጻኢ)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"ዩዋን ቻይና",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerTi = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"ኮስታሪካ ኮሎን",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ኩባውያን ተቐያሪ ፔሶ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerTi = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"ሆንዱራስ ለምፒራ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ክሮኤሽያዊ ኩና",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -643,11 +633,6 @@ final _containerTi = CurrencyLocalizationContainer._(
     ),
     "STN": CurrencyLocalization._(
       displayName: r"ሳኦ ቶሜን ፕሪንሲፐ ዶብራ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"ሳልቫዶራን ኮሎን",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

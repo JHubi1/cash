@@ -26,11 +26,6 @@ final _containerNqo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"ߞߎߙߊߛߊߥߏ߫ ߊ߲ߕߌ߫ ߝߑߟߏߙߌ߲ߛ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ߊ߲ߜ߭ߏߟߞߊ ߟߎ߬ ߟߊ߫ ߞߎߥߊ߲ߖ߭ߊ",
       displayCountSingular: null,
@@ -146,6 +141,11 @@ final _containerNqo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"ߛߌߣ ߦߎߥߊߣ (ߝߊ߲߬ߕߙߊ ߖߌߘߊ)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"ߦߎߥߊߣ ߙߊ߲ߡߌ߲ߓߌ߫",
       displayCountSingular: null,
@@ -158,11 +158,6 @@ final _containerNqo = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"ߞߐߛߑߕߊߙߌߞߊ߫ ߞߐߟߐߣ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ߞߎ߳ߓߊ߫ ߔߋߛߏ߫ ߝߊ߬ߟߋ߲߬ߕߊ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -278,11 +273,6 @@ final _containerNqo = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"ߤߐ߲ߘߎߙߊ߫ ߟߋ߲ߔߌߙߊ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ߞߙߏߥߊߛߌ߫ ߞߎߣߊ߬",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -428,11 +418,6 @@ final _containerNqo = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"ߡߘߊߜ߭ߊߛߑߞߊ߯ߙߌߞߊ ߟߎ߬ ߟߊ߫ ߊߙߌߦߊߙߌ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"ߡߘߊߜ߭ߊߑߞߊ߯ߙߌߞߊ ߟߎ߬ ߟߊ߫ ߝߊߙߊ߲",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

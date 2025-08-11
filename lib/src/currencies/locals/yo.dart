@@ -26,11 +26,6 @@ final _containerYo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Gílídà Netherlands Antillean",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"kíwánsà Angola",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerYo = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Yúànì Sháínà",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Reminibi ti Orílẹ́ède ṣáínà",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerYo = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"Kólọ́ọ̀nì Kosita Ríkà",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Pẹ́sò Yíyípadà Kúbà",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerYo = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"Lẹmipírà Ọ́ńdúrà",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Kúnà Kúróṣíà",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

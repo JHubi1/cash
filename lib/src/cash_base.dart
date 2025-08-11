@@ -1,22 +1,25 @@
+import 'dart:math';
+
 import 'package:cash/src/currencies/currencies.dart';
 import 'package:cash/src/currencies/localization.dart';
 
 /// A container class for cash values.
 class Cash {
   /// Represents a monetary [value] in a specific [currency].
-  final double value;
+  double get value => _value / pow(10, currency.exponent);
+  final int _value;
 
   /// The currency associated with this cash [value].
   final Currency currency;
 
   /// Construct a new [Cash] instance with the given properties.
   ///
-  /// The [value] and [currency] are stored as-is. No modification or validation
-  /// is performed on them. Just reading out [value] will return the value
-  /// entered in this constructor.
+  /// The [currency] are stored as-is. [value] is calculated to the number of
+  /// decimal places defined by the [Currency.exponent] of [currency].
   ///
   /// You can use [convertTo] to convert this cash value to another currency.
-  Cash(this.value, this.currency);
+  Cash(double value, this.currency)
+    : _value = (value * pow(10, currency.exponent)).round();
 
   /// Create a string representation of the cash value.
   ///

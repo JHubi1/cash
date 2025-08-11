@@ -26,11 +26,6 @@ final _containerPa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"ਨੀਦਰਲੈਂਡਸ ਐਂਟੀਲੀਅਨ ਗਿਲਡਰ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ਅੰਗੋਲਾ ਕਵਾਂਜਾ",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerPa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"ਚੀਨੀ ਯੁਆਨ (ਔਫ਼ਸ਼ੋਰ)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"ਚੀਨੀ ਯੁਆਨ",
       displayCountSingular: null,
@@ -166,11 +166,6 @@ final _containerPa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ਕਿਊਬਨ ਬਦਲਣਯੋਗ ਪੇਸੋ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"ਕਿਊਬਨ ਪੇਸੋ",
       displayCountSingular: null,
@@ -183,11 +178,6 @@ final _containerPa = CurrencyLocalizationContainer._(
     ),
     "CZK": CurrencyLocalization._(
       displayName: r"ਚੈਕ ਗਣਰਾਜ ਕੋਰੁਨਾ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"ਜਰਮਨ ਮਾਰਕ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -291,11 +281,6 @@ final _containerPa = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ਕਰੋਏਸ਼ੀਆਈ ਕੁਨਾ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"ਹੈਤੀ ਗੌਰਡੇ",
       displayCountSingular: null,
@@ -308,11 +293,6 @@ final _containerPa = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"ਇੰਡੋਨੇਸ਼ੀਆਈ ਰੁਪਿਆਹ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"ਆਇਰਿਸ਼ ਪੌਂਡ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -423,16 +403,6 @@ final _containerPa = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"ਲੇਸੋਥੋ ਲੋਟੀ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"ਲਿਥੁਆਨੀਆਈ ਲਿਤਾਸ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"ਲਾਟਵਿਆਈ ਲਾਟਸ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

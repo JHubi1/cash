@@ -11,10 +11,5 @@ final _containerMt = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"Lira Maltija",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
   },
 );

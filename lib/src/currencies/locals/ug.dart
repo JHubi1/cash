@@ -26,11 +26,6 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"گوللاندىيەگە قاراشلىق ئانتىللېن گۇلدېنى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ئانگولا كۇۋانزاسى",
       displayCountSingular: null,
@@ -38,11 +33,6 @@ final _containerUg = CurrencyLocalizationContainer._(
     ),
     "ARS": CurrencyLocalization._(
       displayName: r"ئارگېنتىنا پېسوسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ATS": CurrencyLocalization._(
-      displayName: r"ئاۋسترىيە شىللىڭى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -73,11 +63,6 @@ final _containerUg = CurrencyLocalizationContainer._(
     ),
     "BDT": CurrencyLocalization._(
       displayName: r"باڭلادىش تاكاسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "BEF": CurrencyLocalization._(
-      displayName: r"بېلگىيە فرانكى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -176,11 +161,6 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"كۇبا ئالماشتۇرۇشچان پېسوسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"كۇبا پېسوسى",
       displayCountSingular: null,
@@ -191,18 +171,8 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CYP": CurrencyLocalization._(
-      displayName: r"سىپرۇس فوند ستېرلىڭى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CZK": CurrencyLocalization._(
       displayName: r"چېخ جۇمھۇرىيىتى كورۇناسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"گېرمانىيە ماركى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -226,11 +196,6 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"ئېستونىيە كرۇنى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EGP": CurrencyLocalization._(
       displayName: r"مىسىر فوند سىتېرلىڭى",
       displayCountSingular: null,
@@ -238,11 +203,6 @@ final _containerUg = CurrencyLocalizationContainer._(
     ),
     "ERN": CurrencyLocalization._(
       displayName: r"ئېرىترېيە ناكفاسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ESP": CurrencyLocalization._(
-      displayName: r"ئىسپانىيە پېسېتاسى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -256,11 +216,6 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"فىنلاندىيە مارككاسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "FJD": CurrencyLocalization._(
       displayName: r"فىجى دوللىرى",
       displayCountSingular: null,
@@ -268,11 +223,6 @@ final _containerUg = CurrencyLocalizationContainer._(
     ),
     "FKP": CurrencyLocalization._(
       displayName: r"فالكلاند ئاراللىرى فوند سىتېرلىڭى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FRF": CurrencyLocalization._(
-      displayName: r"فىرانسىيە فرانكى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -306,11 +256,6 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "GRD": CurrencyLocalization._(
-      displayName: r"گىرېتسىيە دراخماسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "GTQ": CurrencyLocalization._(
       displayName: r"گىۋاتېمالا كۇۋېتزالى",
       displayCountSingular: null,
@@ -331,11 +276,6 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"كىرودىيە كۇناسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"ھايتى گۇردېسى",
       displayCountSingular: null,
@@ -348,11 +288,6 @@ final _containerUg = CurrencyLocalizationContainer._(
     ),
     "IDR": CurrencyLocalization._(
       displayName: r"ھىندونېزىيە رۇپىيەسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "IEP": CurrencyLocalization._(
-      displayName: r"ئىرېلاندىيە فوندستېرلىڭى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -378,11 +313,6 @@ final _containerUg = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"ئىسلاندىيە كروناسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"ئىتالىيە لىراسى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -471,21 +401,6 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"لىتۋا لىتاسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LUF": CurrencyLocalization._(
-      displayName: r"ليۇكسېمبۇرگ فرانكى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"لاتۋىيە لاتى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "LYD": CurrencyLocalization._(
       displayName: r"لىۋىيە دىنارى",
       displayCountSingular: null,
@@ -503,11 +418,6 @@ final _containerUg = CurrencyLocalizationContainer._(
     ),
     "MGA": CurrencyLocalization._(
       displayName: r"ماداغاسقار ئارىئارىسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MGF": CurrencyLocalization._(
-      displayName: r"ماداغاسقار فرانكى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -533,11 +443,6 @@ final _containerUg = CurrencyLocalizationContainer._(
     ),
     "MRU": CurrencyLocalization._(
       displayName: r"ماۋرىتانىيە ئۇگىيەسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "MTL": CurrencyLocalization._(
-      displayName: r"مالتا لىراسى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -591,11 +496,6 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "NLG": CurrencyLocalization._(
-      displayName: r"گوللاندىيە گۈلدىنى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "NOK": CurrencyLocalization._(
       displayName: r"نورۋېگىيە كرونى",
       displayCountSingular: null,
@@ -643,11 +543,6 @@ final _containerUg = CurrencyLocalizationContainer._(
     ),
     "PLN": CurrencyLocalization._(
       displayName: r"پولشا زىلوتى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "PTE": CurrencyLocalization._(
-      displayName: r"پورتۇگالىيە ئېسكۇدوسى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -716,16 +611,6 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"سىلوۋېنىيە تولارى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"سىلوۋاكىيە كورۇناسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "SLE": CurrencyLocalization._(
       displayName: r"سېررالېئون لېئونېسى",
       displayCountSingular: null,
@@ -741,18 +626,8 @@ final _containerUg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "SRG": CurrencyLocalization._(
-      displayName: r"سۇرىنام گۈلدىنى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "STN": CurrencyLocalization._(
       displayName: r"سان-تومې ۋە پىرىنسىپى دوبراسى",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SVC": CurrencyLocalization._(
-      displayName: r"سالۋادور كولونى",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

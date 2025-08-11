@@ -26,11 +26,6 @@ final _containerUr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"نیدر لینڈز انٹیلیئن گلڈر",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"انگولا کا کوانزا",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerUr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"چینی یوآن (آف شور)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"چینی یوآن",
       displayCountSingular: null,
@@ -166,11 +166,6 @@ final _containerUr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"کیوبا کا قابل منتقلی پیسو",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"کیوبا کا پیسو",
       displayCountSingular: null,
@@ -183,11 +178,6 @@ final _containerUr = CurrencyLocalizationContainer._(
     ),
     "CZK": CurrencyLocalization._(
       displayName: r"چیک کرونا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "DEM": CurrencyLocalization._(
-      displayName: r"ڈچ مارکس",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -208,11 +198,6 @@ final _containerUr = CurrencyLocalizationContainer._(
     ),
     "DZD": CurrencyLocalization._(
       displayName: r"الجیریائی دینار",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"ایسٹونین کرون",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -293,11 +278,6 @@ final _containerUr = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"ہونڈوران لیمپیرا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"کروشین کونا",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -423,16 +403,6 @@ final _containerUr = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"لیسوتھو لوتی",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"لیتھوینیائی لیٹاس",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"لاتویائی لیٹس",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -638,16 +608,6 @@ final _containerUr = CurrencyLocalizationContainer._(
     ),
     "SHP": CurrencyLocalization._(
       displayName: r"سینٹ ہیلینا پاؤنڈ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SIT": CurrencyLocalization._(
-      displayName: r"سلوانین ٹولر",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "SKK": CurrencyLocalization._(
-      displayName: r"سلووک کرونا",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

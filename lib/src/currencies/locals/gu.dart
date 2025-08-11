@@ -26,11 +26,6 @@ final _containerGu = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"નેધરલેંડ એંટિલિન ગિલ્ડર",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"અંગોલિયન ક્વાન્ઝા",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerGu = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"ચાઇનીઝ યુઆન (ઑફશોર)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"ચાઇનિઝ યુઆન",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerGu = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"કોસ્ટા રિકન કોલોન",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ક્યુબન રૂપાંતર યોગ્ય પેસો",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerGu = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"હોન્ડ્યુરન લેમ્પિરા",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ક્રોએશિયન ક્યુના",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -413,16 +403,6 @@ final _containerGu = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"લેસોથો લોતી",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"લિથુએનિયન લિતાસ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"લાતવિયન લેત્સ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

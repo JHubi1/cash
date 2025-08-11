@@ -26,11 +26,6 @@ final _containerChr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"ᎾᏍᎩᏁᏛᎳᏂ ᎠᏂᏘᎵᏏ ᎠᏕᎳ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ᎠᏂᎪᎳ ᎠᏕᎳ",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerChr = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"ᏣᏂᏏ ᎠᏕᎳ (ᏓᎹᏳᏟᏗ)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"ᏓᎶᏂᎨ ᎠᏕᎳ",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerChr = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"ᎪᏍᏓᎵᎧ ᎠᏕᎳ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ᎫᏆ ᎦᏁᏟᏴᏍᏔᏅ ᎠᏕᎳ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerChr = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"ᎭᏂᏚᎳᏍ ᎠᏕᎳ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ᎧᎶᎡᏏᎠ ᎠᏕᎳ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

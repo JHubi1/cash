@@ -26,11 +26,6 @@ final _containerIg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Ego Antillean Guilder obodo Netherlands",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Ego Kwanza obodo Angola",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerIg = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Ego Yuan Obodo China (ndị bi na mmiri)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Yuan China",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerIg = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"Ego Colón obodo Costa Rica",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Ego Peso e nwere ike ịgbanwe nke obodo Cuba",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerIg = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"Ego Lempira obodo Honduras",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Ego Kuna obodo Croatia",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

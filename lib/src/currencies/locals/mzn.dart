@@ -26,11 +26,6 @@ final _containerMzn = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"هلند ِآنتیل ِجزایر ِگویلدر",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"آنگولای ِکوانزا",
       displayCountSingular: null,
@@ -161,11 +156,6 @@ final _containerMzn = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"کوبای ِتبدیل‌بَیی پزو",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"کوبای ِپزو",
       displayCountSingular: null,
@@ -273,11 +263,6 @@ final _containerMzn = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"هندوراس ِلمپیرا",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"کرواسی ِکونا",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

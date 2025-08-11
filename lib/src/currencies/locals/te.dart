@@ -26,11 +26,6 @@ final _containerTe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"నెదర్లాండ్స్ యాంటిల్లియన్ గిల్‌డర్",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"అంగోలాన్ క్వాన్‌జా",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerTe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"చైనీస్ యువాన్ (ఆఫ్‌షోర్)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"చైనా దేశ యువాన్",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerTe = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"కోస్టా రికన్ కోలోన్",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"క్యూబన్ కన్వర్టబుల్ పెసో",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerTe = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"హోండురన్ లెమిపిరా",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"క్రొయేషియన్ క్యూన",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -413,16 +403,6 @@ final _containerTe = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"లెసోధో లోటి",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"లిథోనియన్ లీటాస్",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"లాత్వియన్ లాట్స్",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

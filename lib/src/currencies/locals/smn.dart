@@ -11,18 +11,8 @@ final _containerSmn = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "EEK": CurrencyLocalization._(
-      displayName: r"Eesti ruvnâ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "EUR": CurrencyLocalization._(
       displayName: r"euro",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "FIM": CurrencyLocalization._(
-      displayName: r"Suomâ märkki",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

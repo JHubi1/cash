@@ -26,11 +26,6 @@ final _containerCe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Нидерландин Антилин гульден",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Анголан кванза",
       displayCountSingular: null,
@@ -166,11 +161,6 @@ final _containerCe = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Кубан хийцалун песо",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "CUP": CurrencyLocalization._(
       displayName: r"Кубан песо",
       displayCountSingular: null,
@@ -283,11 +273,6 @@ final _containerCe = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"Гондурасан лемпира",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Хорватин куна",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

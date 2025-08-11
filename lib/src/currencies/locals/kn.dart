@@ -26,11 +26,6 @@ final _containerKn = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"ನೆದರ್ಲೆಂಡ್ಸ್ ಆಂಟಿಲಿಯನ್ ಗಿಲ್ಡರ್",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"ಅಂಗೋಲಾದ ಕ್ವಾನ್ಝಾ",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerKn = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"ಚೈನೀಸ್ ಯುವಾನ್ (ಆಫ್‌ಶೋರ್)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"ಚೈನೀಸ್ ಯುವಾನ್",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerKn = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"ಕೋಸ್ಟ ರಿಕನ್ ಕೊಲನ್",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"ಕ್ಯುಬಾದ ಪರಿವರ್ತನೀಯ ಪೆಸೊ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -283,11 +278,6 @@ final _containerKn = CurrencyLocalizationContainer._(
     ),
     "HNL": CurrencyLocalization._(
       displayName: r"ಹೊಂಡುರಾನ್‌ ಲೆಂಪಿರಾ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"ಕ್ರೊಯೆಷ್ಯಾದ ಕೂನಾ",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -413,16 +403,6 @@ final _containerKn = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"ಲೆಸೊತೊ ಲೊತಿ",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"ಲಿಥುನಿಯನ್‌ ಲಿತಾಸ್‌",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"ಲ್ಯಾಟ್ವಿಯನ್ ಲ್ಯಾಟ್ಸ್",
       displayCountSingular: null,
       displayCountPlural: null,
     ),

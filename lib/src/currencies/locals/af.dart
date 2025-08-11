@@ -26,11 +26,6 @@ final _containerAf = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "ANG": CurrencyLocalization._(
-      displayName: r"Nederlands-Antilliaanse gulde",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "AOA": CurrencyLocalization._(
       displayName: r"Angolese kwanza",
       displayCountSingular: null,
@@ -151,6 +146,11 @@ final _containerAf = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
+    "CNH": CurrencyLocalization._(
+      displayName: r"Chinese joean (buiteland)",
+      displayCountSingular: null,
+      displayCountPlural: null,
+    ),
     "CNY": CurrencyLocalization._(
       displayName: r"Chinese joean",
       displayCountSingular: null,
@@ -163,11 +163,6 @@ final _containerAf = CurrencyLocalizationContainer._(
     ),
     "CRC": CurrencyLocalization._(
       displayName: r"Costa Ricaanse colón",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "CUC": CurrencyLocalization._(
-      displayName: r"Kubaanse omskakelbare peso",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -286,11 +281,6 @@ final _containerAf = CurrencyLocalizationContainer._(
       displayCountSingular: null,
       displayCountPlural: null,
     ),
-    "HRK": CurrencyLocalization._(
-      displayName: r"Kroatiese kuna",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
     "HTG": CurrencyLocalization._(
       displayName: r"Haïtiaanse gourde",
       displayCountSingular: null,
@@ -328,11 +318,6 @@ final _containerAf = CurrencyLocalizationContainer._(
     ),
     "ISK": CurrencyLocalization._(
       displayName: r"Yslandse kroon",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "ITL": CurrencyLocalization._(
-      displayName: r"Italiaanse lier",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
@@ -418,16 +403,6 @@ final _containerAf = CurrencyLocalizationContainer._(
     ),
     "LSL": CurrencyLocalization._(
       displayName: r"Lesotho loti",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LTL": CurrencyLocalization._(
-      displayName: r"Litause litas",
-      displayCountSingular: null,
-      displayCountPlural: null,
-    ),
-    "LVL": CurrencyLocalization._(
-      displayName: r"Lettiese lats",
       displayCountSingular: null,
       displayCountPlural: null,
     ),
